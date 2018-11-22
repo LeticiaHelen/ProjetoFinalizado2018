@@ -1,0 +1,58 @@
+{
+  "1": {
+    "primeiroNome": "Admin",
+    "ultimoNome": "admin",
+    "idade": 12,
+    "email": "adm@hotmail.com",
+    "nomeusuario": "Admin",
+    "password": "admin"
+  },
+  "2": {
+    "primeiroNome": "teste",
+    "ultimoNome": "teste",
+    "idade": 12,
+    "email": "teste@hotmail.com",
+    "nomeusuario": "teste",
+    "password": "teste"
+  },
+  "3": {
+    "primeiroNome": "Felipe",
+    "ultimoNome": "Passig",
+    "idade": 16,
+    "email": "felipepassig@hotmail.com",
+    "nomeusuario": "Felipe",
+    "password": "felipe"
+  },
+  "4": {
+    "primeiroNome": "Clara",
+    "ultimoNome": "de Jesus",
+    "idade": 15,
+    "email": "clarasouzadejesus16@gmail.com",
+    "nomeusuario": "Clara",
+    "password": "clara"
+  },
+  "5": {
+    "primeiroNome": "Leticia",
+    "ultimoNome": "Helen",
+    "idade": 16,
+    "email": "leticiahelen@gmail.com",
+    "nomeusuario": "Leticia Helen",
+    "password": "leticia"
+  },
+  "6": {
+    "primeiroNome": "Aline",
+    "ultimoNome": "Cardoso",
+    "idade": 16,
+    "email": "alinecardoso@gmail.com",
+    "nomeusuario": "Aline Cardoso",
+    "password": "aline"
+  },
+  "7": {
+    "primeiroNome": "Matheus",
+    "ultimoNome": "Rodrigues",
+    "idade": 16,
+    "email": "matheusorelha@gmail.com",
+    "nomeusuario": "Beiçin",
+    "password": "beico"
+  }
+}

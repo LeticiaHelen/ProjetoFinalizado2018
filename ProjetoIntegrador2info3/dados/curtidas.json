@@ -1,0 +1,112 @@
+[
+    {
+        "resenha": "16",
+        "usuario": "4",
+        "curtiu": true
+    },
+    {
+        "resenha": "1",
+        "usuario": "3",
+        "curtiu": true
+    },
+    {
+        "resenha": "2",
+        "usuario": "3",
+        "curtiu": false
+    },
+    {
+        "resenha": "11",
+        "usuario": "3",
+        "curtiu": false
+    },
+    {
+        "resenha": "3",
+        "usuario": "3",
+        "curtiu": true
+    },
+    {
+        "resenha": "4",
+        "usuario": "1",
+        "curtiu": false
+    },
+    {
+        "resenha": "2",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "1",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "5",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "9",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "3",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "1",
+        "usuario": null,
+        "curtiu": false
+    },
+    {
+        "resenha": "13",
+        "usuario": "4",
+        "curtiu": false
+    },
+    {
+        "resenha": "15",
+        "usuario": "4",
+        "curtiu": true
+    },
+    {
+        "resenha": "11",
+        "usuario": "4",
+        "curtiu": true
+    },
+    {
+        "resenha": "10",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "8",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "14",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "6",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "7",
+        "usuario": "1",
+        "curtiu": true
+    },
+    {
+        "resenha": "12",
+        "usuario": "1",
+        "curtiu": true
+    }
+]

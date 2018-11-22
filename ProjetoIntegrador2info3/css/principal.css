@@ -1,0 +1,388 @@
+.direita{
+	float: right;
+}
+.topper{
+	margin-top: 5%;
+	font-color:#FFFFFF;
+}
+
+.epc{
+	margin-top: 0.5%;
+	font-color:#FFFFFF;
+}
+
+.coluna1{
+	width: 45%;
+	float: left;
+	padding: 2%;
+}
+.gridDupla{
+	margin:2%;
+	padding:1%;
+}
+.imagemLeft{
+	border: 1px solid black;	
+	width:70%;
+	float:left;
+}
+.resenha{
+	margin:5%;
+	float:left;
+	width:65%;
+	padding:5px;
+	border-top:1px solid gray;	
+	background-color: #dfdce3 ;
+}
+.texto{
+	margin:2%;
+	text-align:center;
+	font-size: 16px;
+	width: 100%;
+	text-align: justify;
+}
+
+.fixada{
+	position: absolute;
+}
+.linkar{
+	text-decoration: none;
+	color:#000000;
+}
+.topoLogo{
+margin:1%;
+width: 100%;
+height:7%;
+}
+
+.logo1{
+	float:left;
+	width:2.5%;
+	height:70%;
+}
+.nomeResenha{
+text-align: center;
+}
+.fotoResenha{
+	margin-top:14%;
+}
+
+.tit{
+	height: 80%;
+	width: 10%;	
+}
+.tit2{
+	height: 79% !important;
+	width: 13% !important;	
+}
+.tit3{
+	height: 50% !important;
+	width: 10% !important;	
+
+}
+.aaa{
+	text-shadow: 1px 1px gray;
+	text-decoration: underline;
+}
+
+.centra{
+	text-align: center;
+	height: 15%;
+	padding-top: 3%;
+}
+
+.um{
+	width: 50%;
+	margin-left: 25%;
+	border: 3px solid #000000;
+	border-radius: 1%;
+
+}
+
+.rodape {
+    width: 100%; 
+    margin-top: 30.1%;
+}
+
+.rodape1{
+    width: 100%; 
+    margin-top: 21%;
+}
+
+.flutua{
+	float: right;
+	margin-top: 0.5%;
+}
+
+.rodaresenha{
+	margin-top: 15%;
+}
+
+.espaco{
+	height: 7.8%;
+}
+.red{
+	color:red;
+}
+
+.umpoucodeespaco{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.espacobotao{
+	margin-left: 60%;
+	margin-right: 5%;
+}
+.cor_menu{
+	background-color: #54242d !important;
+}
+
+.cor_menu2{
+	background-color: #063051 !important;
+}
+
+.cor_letra{
+	color: white !important;
+	font-style: vertical-align: inherit !important;
+	font-size: 16px !important;
+}
+
+.esquerda{
+	margin-left: 33%;
+	
+}
+
+.bordinha{
+	border: 2px solid black;
+}
+
+
+.fundo1{
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.espacologin{
+	margin-left: 37%;
+}
+
+.espacobotao{
+	margin-bottom: 5% !important;
+}
+
+.limite{
+	width: 30%;
+	height:50%;
+}
+
+.limite2{
+	width: 30%;
+	height:30%;
+}
+
+.espacocima{
+	margin-top: 30%;
+}
+
+.fundo2{
+	border: 2px solid black;
+	background-color: white;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	width:96%; 
+	height:9%;
+}
+
+.espacocadastro{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.cor_letra1{
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.cor_menu3{
+	background-color: #063051 !important;
+	margin-top: 20%;
+}
+
+.fundo3{
+	margin-top: 1%;
+	margin-bottom: 1%;
+	width:96%; 
+	height:9%;
+}
+
+.formatacaoletra{
+	font-weight: bold;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	color: white;
+	margin-left: 47%;
+	font-size: 200%;
+}
+body{
+	background: linear-gradient(to right, rgb(223, 220, 227), rgb(223, 220, 227));
+	color: #000000;
+	border-radius: 5px 5px 5px 5px;
+	border-style: none;
+}
+.linkCadastro{
+	width: 30%;
+	height: 8%;
+	margin-left: 37%;
+	padding-left: 6%;
+	padding-top: 1%;
+	border-radius: 10px;
+}
+.black{
+	color: black;
+}
+.espacosuperior{
+	margin-top: 6%;
+}
+.cinza{
+	background-color: #565656 !important;
+	color: white !important;
+}
+.cimacima{
+	width: 100%;
+	height: 10%;
+}
+.espacao{
+	width: 100%;
+	height: 20%;
+	color: #dfdce3;
+}
+.coments{
+	width: 60%;
+	float: left;
+}
+.lateral{
+	width: 30%;
+	float: left;
+	color: #dfdce3 !important;
+}
+.lateral2{
+	width: 10%;
+	float: right;
+	color: #dfdce3 !important;
+
+}
+}
+.textarea{
+	background-color: #dfdce3 !important;
+	border:1px solid black !important;
+	color: black !important;
+}
+
+.clear{
+	clear: both;
+	color: #dfdce3;
+	height: 10%;  
+}
+.lateralUsuario{
+	width: 25%;
+	float: left;
+	color:#dfdce3 !important; 
+}
+
+.nomeUsuario{
+	margin-left: 47%;
+}
+
+.conteudo{
+	width: 50%;
+	float: left;
+	background-color:#dfdce3;	
+}
+.denuncia{
+	width: 10%;
+	float: right;
+}
+.autoria{
+	width: 90%;
+	float: left;
+}
+
+footer.footer {
+  text-align: center;
+  margin-top: 70px;
+  border-top: 1px solid #E5E5E5;
+}
+
+ .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
+
+.branca{
+	color: white;
+}
+
+a{
+	text-decoration: none;
+}
+.pesquisacanto{
+	width: 30%;
+}
+.lateralMR{
+	width: 20%;
+}
+.enviadas{
+	width:60%;
+}
+.menu_usu{
+	width:15%;
+	float: left;
+}
+.espaco_icons{
+	width: 33%;
+	float: left;
+}
+
+.espaco_like{
+	width: 100%;
+	float: left;
+	margin-bottom: 3%;
+}
+.max{
+	max-width: 26% !important;
+}
+span{
+	height: 50% !important;
+	width: 15% !important;	
+
+}
+.fotoMenu{
+	width: 30% !important;
+	height: 80% !important;
+}
+.irCanto{
+	float: right !important;
+}
+.p{
+	font-style:sans-serif;
+	font-size: 20px;
+}
+.ranking{
+	width: 100%;
+	height: 5%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.ul{
+	max-width: 80%;
+	margin-left: 10%;
+}
+
+.estrela{
+	font-size: 50px;
+/*    color: yellow;
+*/    text-shadow: 1px 1px 1px #000;
+    text-decoration: none;
+}
